@@ -1,0 +1,6 @@
+criar a pasta
+entrar na pasta com o github bash
+git init
+git remote add origin https://github.com/nomeusuario/nomerepo
+git branch -M main
+git pull origin main
